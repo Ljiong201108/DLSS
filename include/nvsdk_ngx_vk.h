@@ -69,6 +69,8 @@
 #ifndef NVSDK_NGX_VK_H
 #define NVSDK_NGX_VK_H
 
+#include "core/all_extern.hpp"
+
 #include "nvsdk_ngx_defs.h"
 #include "nvsdk_ngx_params.h"
 #ifndef __cplusplus

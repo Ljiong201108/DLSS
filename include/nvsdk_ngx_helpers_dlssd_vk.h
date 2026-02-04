@@ -17,6 +17,7 @@
 #include "nvsdk_ngx_vk.h"
 #include "nvsdk_ngx_defs_dlssd.h"
 #include "nvsdk_ngx_params_dlssd.h"
+#include "nvsdk_ngx_helpers_vk.h"
 
 typedef struct NVSDK_NGX_VK_DLSSD_Eval_Params
 {
